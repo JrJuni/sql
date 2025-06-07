@@ -1,0 +1,9 @@
+Study Goal
+- Develop an AI Automation System for Business Development
+
+Today's Goal
+- Introduction of SQLite
+- Planning the pipeline
+
+Today's Log
+1. Install
